@@ -1,0 +1,6 @@
+
+*.csv
+*.bin
+*.pt
+*.log
+logs/train.log.2020-11-22
